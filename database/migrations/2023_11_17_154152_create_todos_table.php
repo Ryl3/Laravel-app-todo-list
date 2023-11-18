@@ -13,6 +13,8 @@ return new class extends Migration
     {
         Schema::create('todos', function (Blueprint $table) {
             $table->id();
+            $table->longText('title');
+            $table->boolean('is_completed')->default(0);
             $table->timestamps();
         });
     }
