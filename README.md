@@ -2,7 +2,8 @@
 
 ### Screenshoot app
 
-<img width="1145" alt="Screenshot 2023-11-16 at 09 24 56" src="https://github.com/Gassho-dan/Laravel-app-todo-list/assets/33323098/c58ee88a-b374-45c6-a86e-320f8a7456de">
+<img width="1137" alt="Screenshot 2023-11-18 at 16 53 27" src="https://github.com/Gassho-dan/Laravel-app-todo-list/assets/33323098/6b205ffd-297d-4317-858a-f45ee87dfaec">
+
 
 Simple Todo List App with MySQL
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
